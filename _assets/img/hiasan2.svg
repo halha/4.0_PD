@@ -1,0 +1,58 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="608.02" height="215" viewBox="0 0 608.02 215">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #3e3e3e;
+        stroke-width: 5px;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <title>hiasan2</title>
+  <g id="Group_11" data-name="Group 11">
+    <line id="Line_5" data-name="Line 5" class="cls-1" x1="2.5" y1="49.31" x2="357.17" y2="49.31"/>
+    <line id="Line_6" data-name="Line 6" class="cls-1" x1="357.17" y1="49.31" x2="357.17" y2="11.53"/>
+    <line id="Line_7" data-name="Line 7" class="cls-1" x1="359.36" y1="11.13" x2="470.84" y2="11.13"/>
+    <line id="Line_10" data-name="Line 10" class="cls-1" x1="415.1" y1="48.9" x2="585.61" y2="49.31"/>
+    <line id="Line_11" data-name="Line 11" class="cls-1" x1="2.5" y1="87.49" x2="532.05" y2="87.49"/>
+    <line id="Line_12" data-name="Line 12" class="cls-1" x1="415.1" y1="87.49" x2="415.1" y2="49.72"/>
+    <line id="Line_14" data-name="Line 14" class="cls-1" x1="289.41" y1="165.89" x2="289.41" y2="203.67"/>
+    <line id="Line_15" data-name="Line 15" class="cls-1" x1="289.41" y1="203.67" x2="400.89" y2="203.67"/>
+    <line id="Line_16" data-name="Line 16" class="cls-1" x1="2.5" y1="165.49" x2="553.37" y2="165.49"/>
+    <line id="Line_17" data-name="Line 17" class="cls-1" x1="380.13" y1="126.49" x2="482.32" y2="126.49"/>
+    <line id="Line_18" data-name="Line 18" class="cls-1" x1="380.13" y1="126.49" x2="380.13" y2="164.27"/>
+    <line id="Line_19" data-name="Line 19" class="cls-1" x1="2.5" y1="127.3" x2="306.35" y2="127.3"/>
+    <line id="Line_20" data-name="Line 20" class="cls-1" x1="306.35" y1="89.52" x2="306.35" y2="127.3"/>
+    <g id="Ellipse_9" data-name="Ellipse 9">
+      <circle class="cls-2" cx="481.36" cy="11.08" r="11.08"/>
+      <circle class="cls-3" cx="481.36" cy="11.08" r="8.58"/>
+    </g>
+    <g id="Ellipse_10" data-name="Ellipse 10">
+      <circle class="cls-2" cx="596.94" cy="48.81" r="11.08"/>
+      <circle class="cls-3" cx="596.94" cy="48.81" r="8.58"/>
+    </g>
+    <g id="Ellipse_11" data-name="Ellipse 11">
+      <circle class="cls-2" cx="543.04" cy="87.74" r="11.08"/>
+      <circle class="cls-3" cx="543.04" cy="87.74" r="8.58"/>
+    </g>
+    <g id="Ellipse_12" data-name="Ellipse 12">
+      <circle class="cls-2" cx="492.73" cy="126.66" r="11.08"/>
+      <circle class="cls-3" cx="492.73" cy="126.66" r="8.58"/>
+    </g>
+    <g id="Ellipse_13" data-name="Ellipse 13">
+      <circle class="cls-2" cx="563.4" cy="165.59" r="11.08"/>
+      <circle class="cls-3" cx="563.4" cy="165.59" r="8.58"/>
+    </g>
+    <g id="Ellipse_14" data-name="Ellipse 14">
+      <circle class="cls-2" cx="411.89" cy="203.92" r="11.08"/>
+      <circle class="cls-3" cx="411.89" cy="203.92" r="8.58"/>
+    </g>
+  </g>
+</svg>
